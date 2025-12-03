@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**neoslvt/neoslvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a bit about me and what I do.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Passionate about programming, cybersecurity, and all things tech.
+* 🧪 Always experimenting with new tools, stacks, and creative ideas.
+* 🎨 Interested in digital aesthetics, cyberpunk vibes, and unique project concepts.
+
+## 🛠️ Tech Stack
+
+**Languages:** C/C++/C#, JS / TS, Python, PHP and more.
+
+**Tools & Frameworks:** Node.js, React, Laravel, Docker and more.
+
+**Other:** Git, Linux, Nginx, Apache2, REST APIs, Shell scripting
+
+Thanks for visiting! Feel free to explore my repositories or reach out anytime.
