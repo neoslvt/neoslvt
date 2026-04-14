@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here's a bit about me and what I do.
 
 * 💻 Passionate about programming, cybersecurity, and all things tech.
 * 🧪 Always experimenting with new tools, stacks, and creative ideas.
-* 🎨 Interested in digital aesthetics, cyberpunk vibes, and unique project concepts.
+* 🎨 Interested in digital art, music production.
 
 ## 🛠️ Tech Stack
 
